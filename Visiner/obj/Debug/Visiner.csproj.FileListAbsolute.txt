@@ -1,0 +1,10 @@
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\obj\Debug\Visiner.Form1.resources
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\obj\Debug\Visiner.Properties.Resources.resources
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\obj\Debug\Visiner.csproj.GenerateResource.Cache
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\obj\Debug\Visiner.csproj.CoreCompileInputs.cache
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\bin\Debug\Visiner.exe.config
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\bin\Debug\Visiner.exe
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\bin\Debug\Visiner.pdb
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\obj\Debug\Visiner.exe
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\obj\Debug\Visiner.pdb
+C:\University\Study\Cryptography\Lab1_visiner\Visiner\Visiner\obj\Debug\Visiner.csprojResolveAssemblyReference.cache
